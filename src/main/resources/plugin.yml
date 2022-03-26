@@ -1,0 +1,9 @@
+name: ThiefAbility
+version: '${project.version}'
+main: jinu.nulld.Main
+api-version: 1.16
+authors: [ Null_D, Tilto_ ]
+
+commands:
+  공지:
+  thab:
